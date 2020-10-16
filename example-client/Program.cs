@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace example_client
+namespace csharp
 {
     class Program
     {
