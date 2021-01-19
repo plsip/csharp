@@ -10,7 +10,7 @@ namespace csharp
             Console.WriteLine(Environment.GetEnvironmentVariable("secretParameters"));
             Console.WriteLine(Environment.GetEnvironmentVariable("previousResult"));
             
-            Environment.SetEnvironmentVariable("output", "{\"result\": {\"o1\": \"val1\"}}");
+            Environment.SetEnvironmentVariable("output", "{\"result\": {\"o1\": \"val2\"}}");
         }
     }
 }
